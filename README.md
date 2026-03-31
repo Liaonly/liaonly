@@ -16,27 +16,21 @@
   </a>
 </div>
 
-###
 
 <h1 align="center">Thalia Aparecida</h1>
 
-###
 
 <p align="center">Engenharia de Software</p>
 
-###
 
 <h6 align="left">About me!</h6>
 
-###
 
 <p align="left">Hello! I'm a Software Engineering student building my path in the tech field.<br>I have been developing my programming skills with Java, Python, and C#, along with knowledge in SQL databases.</p>
 
-###
 
 <h2 align="left">Language</h2>
 
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -50,18 +44,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liaonly/liaonly/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liaonly/liaonly/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/liaonly/liaonly/output/pacman-contribution-graph.svg">
 </picture>
-
-###
